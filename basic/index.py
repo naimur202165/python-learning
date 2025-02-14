@@ -11,3 +11,14 @@ if 5>4 :
 
 # this is how to commnent on the python code base 
 #we all are alble to do that thing
+
+
+x=6;
+
+b="working on the python code base"
+
+
+print(b)
+
+
+
